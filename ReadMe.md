@@ -29,12 +29,13 @@
  </a>
 </p>
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ShriAmbhikesh&count_private=true&theme=tokyonight&showicons=true)]()
+<br/>
+<br/>
 
-<div>
- <div align="left">
-   <img>
- </div>
+<div align="left">
+
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ShriAmbhikesh&count_private=true&theme=tokyonight&showicons=true)]()
+
  <div align="right">
   <h3>👋 Connect:</h3>
    <p>
