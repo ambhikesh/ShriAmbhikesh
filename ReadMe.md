@@ -22,7 +22,7 @@
  </a>
 </p>
 
-<center><h1>📚Currently learing</h1></center>
+<center><h1>📚Currently learning</h1></center>
 <p align="center">
   <a>
     <img src="https://skillicons.dev/icons?i=kotlin,java,typescript,angular,nextjs,raspberrypi" /> 
