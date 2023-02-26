@@ -1,8 +1,8 @@
 
 <a href="#"><img src="https://github.com/ShriAmbhikesh/ShriAmbhikesh/blob/main/gifgit.gif" align="left"/> <a/>
 <center><h2>&nbsp Hello, I am Ambhikesh</h2><center/>
-<center><h2>&nbsp Currently exploring the vast domains of computer science</h2><center/>
-    <center><h3>&nbsp B.Tech in Computer Science and Engineering, PES University,Bangalore,India<h3></center>
+<center><p>&nbsp Currently exploring the vast domains of computer science</p><center/>
+    <center><p>&nbsp B.Tech in Computer Science and Engineering, PES University,Bangalore,India<p></center>
 <br/>
 <br/>
 <br/>
