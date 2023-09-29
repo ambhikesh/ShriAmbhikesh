@@ -40,7 +40,7 @@
 
 <div align="left">
 
-   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ShriAmbhikesh&count_private=true&theme=tokyonight&showicons=true)]()
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ambhikesh&count_private=true&theme=tokyonight&showicons=true)]()
 
  <div align="right">
    Personal Webiste : https://ambhikesh.github.io
