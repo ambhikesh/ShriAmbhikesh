@@ -10,7 +10,7 @@
 <center><h1>💻Languages</h1></center>
 <p align="center">
     <a href="#">
-    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,html,css,javascript,mysql" /> &nbsp<img height="50" src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MATLAB" title="MATLAB" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,python,matlab,html,css,javascript,mysql" />
  </a>
 </p>
 
